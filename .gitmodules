@@ -1,0 +1,6 @@
+[submodule "ellf"]
+	path = ellf
+	url = https://github.com/kimzemian/LLF-Training.git
+[submodule "Time-MoE"]
+	path = Time-MoE
+	url = https://github.com/kimzemian/Time-MoE-LLF.git
