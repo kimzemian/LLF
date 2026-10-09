@@ -2,6 +2,8 @@
 
 Official repository for the paper *Benchmark Datasets for Lead-Lag Forecasting on Social Platforms*.
 
+**Paper**: [KDD '26](https://doi.org/10.1145/3770855.3817523) · [arXiv](https://arxiv.org/abs/2511.03877)
+
 **Data portal**: [lead-lag-forecasting.github.io](https://lead-lag-forecasting.github.io/)
 
 ## Abstract
@@ -46,10 +48,16 @@ See each submodule's README for setup and usage instructions:
 ## Citation
 
 ```bibtex
-@article{kazemian2025benchmark,
+@inproceedings{kazemian2026benchmark,
   title={Benchmark Datasets for Lead-Lag Forecasting on Social Platforms},
-  author={Kazemian, Kimia and Liu, Zhenzhen and Yang, Yangfanyu and Luo, Katie Z and Gu, Shuhan and Du, Audrey and Yang, Xinyu and Jansons, Jack and Weinberger, Kilian Q and Thickstun, John and Yin, Yian and Dean, Sarah},
-  journal={arXiv preprint arXiv:2511.03877},
-  year={2025}
+  author={Kazemian, Kimia and Liu, Zhenzhen and Yang, Yangfanyu and Luo, Katie and Gu, Shuhan and Du, Audrey and Yang, Xinyu and Jansons, Jack and Weinberger, Kilian Q. and Thickstun, John and Yin, Yian and Dean, Sarah},
+  booktitle={Proceedings of the 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2},
+  series={KDD '26},
+  pages={9207--9217},
+  year={2026},
+  address={Jeju Island, Republic of Korea},
+  publisher={ACM},
+  doi={10.1145/3770855.3817523},
+  url={https://doi.org/10.1145/3770855.3817523}
 }
 ```
